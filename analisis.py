@@ -1,3 +1,9 @@
+#Parte Angie
+def saludo():
+    print("Hola, soy Angie")
+
+
+
 import datetime
 
 def saludar():
