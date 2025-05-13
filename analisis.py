@@ -1,4 +1,4 @@
 #codigo rafael
 
-def salir
+def salir():
  print("nos vemos")
